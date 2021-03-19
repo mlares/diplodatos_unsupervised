@@ -31,7 +31,7 @@ ipython-genutils==0.2.0
 ipyvolume==0.4.0
 ipywebrtc==0.3.0
 ipywidgets==7.0.3
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.3
 jsonschema==2.6.0
 jupyter==1.0.0
